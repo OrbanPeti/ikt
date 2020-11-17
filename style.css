@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
+
+body{
+   margin: 0;
+
+}
+
+.hero{
+        width: 100%;
+        height: 80vh;
+        background-image: url("acdc.jpg");
+        background-size: cover; 
+        background-position-x: center;
+        background-position-y: center;
+}
+
+.hero h1 {
+        margin: 0;
+        color: rgb(15, 59, 182);
+        font-size: 10em;
+        font-family: 'Abril Fatface', cursive;
+        text-align: center;
+}
+
+table tr td img{
+        width: 100%;
+}
+
+
+table tr td {
+        width: 20vw;
+}
